@@ -1,0 +1,32 @@
+/*Regla de etiqueta*/
+h1 {
+    color: rgba(30, 185, 133, 0.475);
+    background-color: aliceblue;
+    text-align: center;
+}
+/*regla de clases*/
+
+.parrafo {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.402);
+}
+
+/*Regla ID*/
+
+#lista {
+    list-style-type: none;
+}
+
+/*Regla desc*/
+
+#lista .primero {
+    color: brown;
+}
+
+/*bacround------------*/
+
+#bodyindex {background-image: url("../IMG/scaloneta.jpeg");
+    background-repeat: no-repeat;
+background-position: right top;
+background-size: cover;}

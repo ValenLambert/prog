@@ -1,0 +1,56 @@
+.titulo {
+    background-color: blueviolet;
+    color: white;
+    margin: 0px;
+    padding: 30px 40px;
+}
+body {
+    margin: 0px;
+}
+
+.contenedor {
+    background-color: aquamarine;
+    padding: 120px 130px;
+    height: 120 px px;
+    width: 120px;
+    border: solid 3px rgb(122, 173, 156);
+display: none;
+}
+
+.misnap {
+    background-color: rgb(21, 192, 192);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.enlaces {
+    background-color: brown;
+    width: 40px;
+    text-decoration: none;
+    font-size: 40px;
+
+}
+
+.header {
+    background-color: aliceblue;
+    border-bottom: solid 3px black;
+    height: 150 px;
+
+}
+
+.subtitulo {
+    text-align: center;
+    padding: 50px;
+}
+
+.footer {
+    background-color: aliceblue;
+    border-top: solid 3px black;
+    height: max-content;
+}
+
+.main {
+    height: 620px;
+}
